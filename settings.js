@@ -23,11 +23,11 @@ global.APIs = {
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94719199757','94703475691'];
+global.owner = ['971557183506'];
 global.premium = ['94719199757','94703475691'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
-global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
+global.author = 'ᴹᴿ°᭄HUSNAIN❖࿐';
+global.caption = ' *👨‍💻 ᴹᴿ°᭄HUSNAIN❖࿐ 👨‍💻*';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
